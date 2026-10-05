@@ -1,1 +1,245 @@
-Ly8g5a+G56CB5L+d5oqk5Yqf6IO9CgovKioKICog5qOA5p+l5piv5ZCm6K6+572u5LqG5a+G56CB5L+d5oqkCiAqIOmAmui/h+ivu+WPlumhtemdouS4iuW1jOWFpeeahOeOr+Wig+WPmOmHj+adpeajgOafpQogKi8KZnVuY3Rpb24gaXNQYXNzd29yZFByb3RlY3RlZCgpIHsKICAgIC8vIOWPquajgOafpeaZrumAmuWvhueggQogICAgY29uc3QgcHdkID0gd2luZG93Ll9fRU5WX18gJiYgd2luZG93Ll9fRU5WX18uUEFTU1dPUkQ7CiAgICAKICAgIC8vIOajgOafpeaZrumAmuWvhueggeaYr+WQpuacieaViAogICAgcmV0dXJuIHR5cGVvZiBwd2QgPT09ICdzdHJpbmcnICYmIHB3ZC5sZW5ndGggPT09IDY0ICYmICEvXjArJC8udGVzdChwd2QpOwp9CgovKioKICog5qOA5p+l5piv5ZCm5by65Yi26KaB5rGC6K6+572u5a+G56CBCiAqIOWmguaenOayoeacieiuvue9ruacieaViOeahCBQQVNTV09SRO+8jOWImeiupOS4uumcgOimgeW8uuWItuiuvue9ruWvhueggQogKiDkuLrkuoblronlhajogIPomZHvvIzmiYDmnInpg6jnvbLpg73lv4Xpobvorr7nva7lr4bnoIEKICovCmZ1bmN0aW9uIGlzUGFzc3dvcmRSZXF1aXJlZCgpIHsKICAgIHJldHVybiAhaXNQYXNzd29yZFByb3RlY3RlZCgpOwp9CgovKioKICog5by65Yi25a+G56CB5L+d5oqk5qOA5p+lIC0g6Ziy5q2i57uV6L+HCiAqIOWcqOWFs+mUruaTjeS9nOWJjemDveW6lOivpeiwg+eUqOatpOWHveaVsAogKi8KZnVuY3Rpb24gZW5zdXJlUGFzc3dvcmRQcm90ZWN0aW9uKCkgewogICAgaWYgKGlzUGFzc3dvcmRSZXF1aXJlZCgpKSB7CiAgICAgICAgc2hvd1Bhc3N3b3JkTW9kYWwoKTsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ1Bhc3N3b3JkIHByb3RlY3Rpb24gaXMgcmVxdWlyZWQnKTsKICAgIH0KICAgIGlmIChpc1Bhc3N3b3JkUHJvdGVjdGVkKCkgJiYgIWlzUGFzc3dvcmRWZXJpZmllZCgpKSB7CiAgICAgICAgc2hvd1Bhc3N3b3JkTW9kYWwoKTsKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ1Bhc3N3b3JkIHZlcmlmaWNhdGlvbiByZXF1aXJlZCcpOwogICAgfQogICAgcmV0dXJuIHRydWU7Cn0KCndpbmRvdy5pc1Bhc3N3b3JkUHJvdGVjdGVkID0gaXNQYXNzd29yZFByb3RlY3RlZDsKd2luZG93LmlzUGFzc3dvcmRSZXF1aXJlZCA9IGlzUGFzc3dvcmRSZXF1aXJlZDsKCi8qKgogKiDpqozor4HnlKjmiLfovpPlhaXnmoTlr4bnoIHmmK/lkKbmraPnoa7vvIjlvILmraXvvIzkvb/nlKhTSEEtMjU25ZOI5biM77yJCiAqLwphc3luYyBmdW5jdGlvbiB2ZXJpZnlQYXNzd29yZChwYXNzd29yZCkgewogICAgdHJ5IHsKICAgICAgICBjb25zdCBjb3JyZWN0SGFzaCA9IHdpbmRvdy5fX0VOVl9fPy5QQVNTV09SRDsKICAgICAgICBpZiAoIWNvcnJlY3RIYXNoKSByZXR1cm4gZmFsc2U7CgogICAgICAgIGNvbnN0IGlucHV0SGFzaCA9IGF3YWl0IHNoYTI1NihwYXNzd29yZCk7CiAgICAgICAgY29uc3QgaXNWYWxpZCA9IGlucHV0SGFzaCA9PT0gY29ycmVjdEhhc2g7CgogICAgICAgIGlmIChpc1ZhbGlkKSB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5zZXRJdGVtKFBBU1NXT1JEX0NPTkZJRy5sb2NhbFN0b3JhZ2VLZXksIEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgIHZlcmlmaWVkOiB0cnVlLAogICAgICAgICAgICAgICAgdGltZXN0YW1wOiBEYXRlLm5vdygpLAogICAgICAgICAgICAgICAgcGFzc3dvcmRIYXNoOiBjb3JyZWN0SGFzaAogICAgICAgICAgICB9KSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpc1ZhbGlkOwogICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICBjb25zb2xlLmVycm9yKCfpqozor4Hlr4bnoIHml7blh7rplJk6JywgZXJyb3IpOwogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KfQoKLy8g6aqM6K+B54q25oCB5qOA5p+lCmZ1bmN0aW9uIGlzUGFzc3dvcmRWZXJpZmllZCgpIHsKICAgIHRyeSB7CiAgICAgICAgaWYgKCFpc1Bhc3N3b3JkUHJvdGVjdGVkKCkpIHJldHVybiB0cnVlOwoKICAgICAgICBjb25zdCBzdG9yZWQgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbShQQVNTV09SRF9DT05GSUcubG9jYWxTdG9yYWdlS2V5KTsKICAgICAgICBpZiAoIXN0b3JlZCkgcmV0dXJuIGZhbHNlOwoKICAgICAgICBjb25zdCB7IHRpbWVzdGFtcCwgcGFzc3dvcmRIYXNoIH0gPSBKU09OLnBhcnNlKHN0b3JlZCk7CiAgICAgICAgY29uc3QgY3VycmVudEhhc2ggPSB3aW5kb3cuX19FTlZfXz8uUEFTU1dPUkQ7CgogICAgICAgIHJldHVybiB0aW1lc3RhbXAgJiYgcGFzc3dvcmRIYXNoID09PSBjdXJyZW50SGFzaCAmJgogICAgICAgICAgICBEYXRlLm5vdygpIC0gdGltZXN0YW1wIDwgUEFTU1dPUkRfQ09ORklHLnZlcmlmaWNhdGlvblRUTDsKICAgIH0gY2F0Y2ggKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcign5qOA5p+l5a+G56CB6aqM6K+B54q25oCB5pe25Ye66ZSZOicsIGVycm9yKTsKICAgICAgICByZXR1cm4gZmFsc2U7CiAgICB9Cn0KCi8vIOabtOaWsOWFqOWxgOWvvOWHugp3aW5kb3cuaXNQYXNzd29yZFByb3RlY3RlZCA9IGlzUGFzc3dvcmRQcm90ZWN0ZWQ7CndpbmRvdy5pc1Bhc3N3b3JkUmVxdWlyZWQgPSBpc1Bhc3N3b3JkUmVxdWlyZWQ7CndpbmRvdy5pc1Bhc3N3b3JkVmVyaWZpZWQgPSBpc1Bhc3N3b3JkVmVyaWZpZWQ7CndpbmRvdy52ZXJpZnlQYXNzd29yZCA9IHZlcmlmeVBhc3N3b3JkOwp3aW5kb3cuZW5zdXJlUGFzc3dvcmRQcm90ZWN0aW9uID0gZW5zdXJlUGFzc3dvcmRQcm90ZWN0aW9uOwoKLy8gU0hBLTI1NuWunueOsO+8jOWPr+eUqFdlYiBDcnlwdG8gQVBJCmFzeW5jIGZ1bmN0aW9uIHNoYTI1NihtZXNzYWdlKSB7CiAgICBpZiAod2luZG93LmNyeXB0byAmJiBjcnlwdG8uc3VidGxlICYmIGNyeXB0by5zdWJ0bGUuZGlnZXN0KSB7CiAgICAgICAgY29uc3QgbXNnQnVmZmVyID0gbmV3IFRleHRFbmNvZGVyKCkuZW5jb2RlKG1lc3NhZ2UpOwogICAgICAgIGNvbnN0IGhhc2hCdWZmZXIgPSBhd2FpdCBjcnlwdG8uc3VidGxlLmRpZ2VzdCgnU0hBLTI1NicsIG1zZ0J1ZmZlcik7CiAgICAgICAgY29uc3QgaGFzaEFycmF5ID0gQXJyYXkuZnJvbShuZXcgVWludDhBcnJheShoYXNoQnVmZmVyKSk7CiAgICAgICAgcmV0dXJuIGhhc2hBcnJheS5tYXAoYiA9PiBiLnRvU3RyaW5nKDE2KS5wYWRTdGFydCgyLCAnMCcpKS5qb2luKCcnKTsKICAgIH0KICAgIC8vIEhUVFAg5LiL6LCD55So5Y6f5aeLIGpz4oCRc2hhMjU2CiAgICBpZiAodHlwZW9mIHdpbmRvdy5fanNTaGEyNTYgPT09ICdmdW5jdGlvbicpIHsKICAgICAgICByZXR1cm4gd2luZG93Ll9qc1NoYTI1NihtZXNzYWdlKTsKICAgIH0KICAgIHRocm93IG5ldyBFcnJvcignTm8gU0hBLTI1NiBpbXBsZW1lbnRhdGlvbiBhdmFpbGFibGUuJyk7Cn0KCi8qKgogKiDmmL7npLrlr4bnoIHpqozor4HlvLnnqpcKICovCmZ1bmN0aW9uIHNob3dQYXNzd29yZE1vZGFsKCkgewogICAgY29uc3QgcGFzc3dvcmRNb2RhbCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwYXNzd29yZE1vZGFsJyk7CiAgICBpZiAocGFzc3dvcmRNb2RhbCkgewogICAgICAgIC8vIOmYsuatouWHuueOsOixhueTo+WMuuWfn+a7muWKqOadoQogICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdkb3ViYW5BcmVhJykuY2xhc3NMaXN0LmFkZCgnaGlkZGVuJyk7CiAgICAgICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkQ2FuY2VsQnRuJykuY2xhc3NMaXN0LmFkZCgnaGlkZGVuJyk7CgogICAgICAgIC8vIOajgOafpeaYr+WQpumcgOimgeW8uuWItuiuvue9ruWvhueggQogICAgICAgIGlmIChpc1Bhc3N3b3JkUmVxdWlyZWQoKSkgewogICAgICAgICAgICAvLyDkv67mlLnlvLnnqpflhoXlrrnmj5DnpLrnlKjmiLfpnIDopoHlhYjorr7nva7lr4bnoIEKICAgICAgICAgICAgY29uc3QgdGl0bGUgPSBwYXNzd29yZE1vZGFsLnF1ZXJ5U2VsZWN0b3IoJ2gyJyk7CiAgICAgICAgICAgIGNvbnN0IGRlc2NyaXB0aW9uID0gcGFzc3dvcmRNb2RhbC5xdWVyeVNlbGVjdG9yKCdwJyk7CiAgICAgICAgICAgIGlmICh0aXRsZSkgdGl0bGUudGV4dENvbnRlbnQgPSAn6ZyA6KaB6K6+572u5a+G56CBJzsKICAgICAgICAgICAgaWYgKGRlc2NyaXB0aW9uKSBkZXNjcmlwdGlvbi50ZXh0Q29udGVudCA9ICfor7flhYjlnKjpg6jnvbLlubPlj7Dorr7nva4gUEFTU1dPUkQg546v5aKD5Y+Y6YeP5p2l5L+d5oqk5oKo55qE5a6e5L6LJzsKICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIOmakOiXj+Wvhueggei+k+WFpeahhuWSjOaPkOS6pOaMiemSru+8jOWPquaYvuekuuaPkOekuuS/oeaBrwogICAgICAgICAgICBjb25zdCBmb3JtID0gcGFzc3dvcmRNb2RhbC5xdWVyeVNlbGVjdG9yKCdmb3JtJyk7CiAgICAgICAgICAgIGNvbnN0IGVycm9yTXNnID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkRXJyb3InKTsKICAgICAgICAgICAgaWYgKGZvcm0pIGZvcm0uc3R5bGUuZGlzcGxheSA9ICdub25lJzsKICAgICAgICAgICAgaWYgKGVycm9yTXNnKSB7CiAgICAgICAgICAgICAgICBlcnJvck1zZy50ZXh0Q29udGVudCA9ICfkuLrnoa7kv53lronlhajvvIzlv4Xpobvorr7nva4gUEFTU1dPUkQg546v5aKD5Y+Y6YeP5omN6IO95L2/55So5pys5pyN5Yqh77yM6K+36IGU57O7566h55CG5ZGY6L+b6KGM6YWN572uJzsKICAgICAgICAgICAgICAgIGVycm9yTXNnLmNsYXNzTGlzdC5yZW1vdmUoJ2hpZGRlbicpOwogICAgICAgICAgICAgICAgZXJyb3JNc2cuY2xhc3NOYW1lID0gJ3RleHQtcmVkLTUwMCBtdC0yIGZvbnQtbWVkaXVtJzsgLy8g5pS55Li65pu06YaS55uu55qE57qi6ImyCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDmraPluLjnmoTlr4bnoIHpqozor4HmqKHlvI8KICAgICAgICAgICAgY29uc3QgdGl0bGUgPSBwYXNzd29yZE1vZGFsLnF1ZXJ5U2VsZWN0b3IoJ2gyJyk7CiAgICAgICAgICAgIGNvbnN0IGRlc2NyaXB0aW9uID0gcGFzc3dvcmRNb2RhbC5xdWVyeVNlbGVjdG9yKCdwJyk7CiAgICAgICAgICAgIGlmICh0aXRsZSkgdGl0bGUudGV4dENvbnRlbnQgPSAn6K6/6Zeu6aqM6K+BJzsKICAgICAgICAgICAgaWYgKGRlc2NyaXB0aW9uKSBkZXNjcmlwdGlvbi50ZXh0Q29udGVudCA9ICfor7fovpPlhaXlr4bnoIHnu6fnu63orr/pl64nOwogICAgICAgICAgICAKICAgICAgICAgICAgY29uc3QgZm9ybSA9IHBhc3N3b3JkTW9kYWwucXVlcnlTZWxlY3RvcignZm9ybScpOwogICAgICAgICAgICBpZiAoZm9ybSkgZm9ybS5zdHlsZS5kaXNwbGF5ID0gJ2Jsb2NrJzsKICAgICAgICB9CgogICAgICAgIHBhc3N3b3JkTW9kYWwuc3R5bGUuZGlzcGxheSA9ICdmbGV4JzsKCiAgICAgICAgLy8g5Y+q5pyJ5Zyo6Z2e5by65Yi26K6+572u5a+G56CB5qih5byP5LiL5omN6IGa54Sm6L6T5YWl5qGGCiAgICAgICAgaWYgKCFpc1Bhc3N3b3JkUmVxdWlyZWQoKSkgewogICAgICAgICAgICAvLyDnoa7kv53ovpPlhaXmoYbojrflj5bnhKbngrkKICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgICAgICAgICBjb25zdCBwYXNzd29yZElucHV0ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkSW5wdXQnKTsKICAgICAgICAgICAgICAgIGlmIChwYXNzd29yZElucHV0KSB7CiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmRJbnB1dC5mb2N1cygpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LCAxMDApOwogICAgICAgIH0KICAgIH0KfQoKLyoqCiAqIOmakOiXj+WvhueggemqjOivgeW8ueeqlwogKi8KZnVuY3Rpb24gaGlkZVBhc3N3b3JkTW9kYWwoKSB7CiAgICBjb25zdCBwYXNzd29yZE1vZGFsID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkTW9kYWwnKTsKICAgIGlmIChwYXNzd29yZE1vZGFsKSB7CiAgICAgICAgLy8g6ZqQ6JeP5a+G56CB6ZSZ6K+v5o+Q56S6CiAgICAgICAgaGlkZVBhc3N3b3JkRXJyb3IoKTsKCiAgICAgICAgLy8g5riF56m65a+G56CB6L6T5YWl5qGGCiAgICAgICAgY29uc3QgcGFzc3dvcmRJbnB1dCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwYXNzd29yZElucHV0Jyk7CiAgICAgICAgaWYgKHBhc3N3b3JkSW5wdXQpIHBhc3N3b3JkSW5wdXQudmFsdWUgPSAnJzsKCiAgICAgICAgcGFzc3dvcmRNb2RhbC5zdHlsZS5kaXNwbGF5ID0gJ25vbmUnOwoKICAgICAgICAvLyDlpoLmnpzlkK/nlKjosYbnk6PljLrln5/liJnmmL7npLrosYbnk6PljLrln58KICAgICAgICBpZiAobG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2RvdWJhbkVuYWJsZWQnKSA9PT0gJ3RydWUnKSB7CiAgICAgICAgICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdkb3ViYW5BcmVhJykuY2xhc3NMaXN0LnJlbW92ZSgnaGlkZGVuJyk7CiAgICAgICAgICAgIGluaXREb3ViYW4oKTsKICAgICAgICB9CiAgICB9Cn0KCi8qKgogKiDmmL7npLrlr4bnoIHplJnor6/kv6Hmga8KICovCmZ1bmN0aW9uIHNob3dQYXNzd29yZEVycm9yKCkgewogICAgY29uc3QgZXJyb3JFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkRXJyb3InKTsKICAgIGlmIChlcnJvckVsZW1lbnQpIHsKICAgICAgICBlcnJvckVsZW1lbnQuY2xhc3NMaXN0LnJlbW92ZSgnaGlkZGVuJyk7CiAgICB9Cn0KCi8qKgogKiDpmpDol4/lr4bnoIHplJnor6/kv6Hmga8KICovCmZ1bmN0aW9uIGhpZGVQYXNzd29yZEVycm9yKCkgewogICAgY29uc3QgZXJyb3JFbGVtZW50ID0gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ3Bhc3N3b3JkRXJyb3InKTsKICAgIGlmIChlcnJvckVsZW1lbnQpIHsKICAgICAgICBlcnJvckVsZW1lbnQuY2xhc3NMaXN0LmFkZCgnaGlkZGVuJyk7CiAgICB9Cn0KCi8qKgogKiDlpITnkIblr4bnoIHmj5DkuqTkuovku7bvvIjlvILmraXvvIkKICovCmFzeW5jIGZ1bmN0aW9uIGhhbmRsZVBhc3N3b3JkU3VibWl0KCkgewogICAgY29uc3QgcGFzc3dvcmRJbnB1dCA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdwYXNzd29yZElucHV0Jyk7CiAgICBjb25zdCBwYXNzd29yZCA9IHBhc3N3b3JkSW5wdXQgPyBwYXNzd29yZElucHV0LnZhbHVlLnRyaW0oKSA6ICcnOwogICAgaWYgKGF3YWl0IHZlcmlmeVBhc3N3b3JkKHBhc3N3b3JkKSkgewogICAgICAgIGhpZGVQYXNzd29yZE1vZGFsKCk7CgogICAgICAgIC8vIOinpuWPkeWvhueggemqjOivgeaIkOWKn+S6i+S7tgogICAgICAgIGRvY3VtZW50LmRpc3BhdGNoRXZlbnQobmV3IEN1c3RvbUV2ZW50KCdwYXNzd29yZFZlcmlmaWVkJykpOwogICAgfSBlbHNlIHsKICAgICAgICBzaG93UGFzc3dvcmRFcnJvcigpOwogICAgICAgIGlmIChwYXNzd29yZElucHV0KSB7CiAgICAgICAgICAgIHBhc3N3b3JkSW5wdXQudmFsdWUgPSAnJzsKICAgICAgICAgICAgcGFzc3dvcmRJbnB1dC5mb2N1cygpOwogICAgICAgIH0KICAgIH0KfQoKLyoqCiAqIOWIneWni+WMluWvhueggemqjOivgeezu+e7nwogKi8KZnVuY3Rpb24gaW5pdFBhc3N3b3JkUHJvdGVjdGlvbigpIHsKICAgIC8vIOWmguaenOmcgOimgeW8uuWItuiuvue9ruWvhuegge+8jOaYvuekuuitpuWRiuW8ueeqlwogICAgaWYgKGlzUGFzc3dvcmRSZXF1aXJlZCgpKSB7CiAgICAgICAgc2hvd1Bhc3N3b3JkTW9kYWwoKTsKICAgICAgICByZXR1cm47CiAgICB9CiAgICAKICAgIC8vIOWmguaenOiuvue9ruS6huWvhueggeS9hueUqOaIt+acqumqjOivge+8jOaYvuekuuWvhueggei+k+WFpeahhgogICAgaWYgKGlzUGFzc3dvcmRQcm90ZWN0ZWQoKSAmJiAhaXNQYXNzd29yZFZlcmlmaWVkKCkpIHsKICAgICAgICBzaG93UGFzc3dvcmRNb2RhbCgpOwogICAgICAgIHJldHVybjsKICAgIH0KfQoKLy8g5Zyo6aG16Z2i5Yqg6L295a6M5oiQ5ZCO5Yid5aeL5YyW5a+G56CB5L+d5oqkCmRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ0RPTUNvbnRlbnRMb2FkZWQnLCBmdW5jdGlvbiAoKSB7CiAgICBpbml0UGFzc3dvcmRQcm90ZWN0aW9uKCk7Cn0pOw==
+// 密码保护功能
+
+/**
+ * 检查是否设置了密码保护
+ * 通过读取页面上嵌入的环境变量来检查
+ */
+function isPasswordProtected() {
+    // 只检查普通密码
+    const pwd = window.__ENV__ && window.__ENV__.PASSWORD;
+    
+    // 检查普通密码是否有效
+    return typeof pwd === 'string' && pwd.length === 64 && !/^0+$/.test(pwd);
+}
+
+/**
+ * 检查是否强制要求设置密码
+ * 如果没有设置有效的 PASSWORD，则认为需要强制设置密码
+ * 为了安全考虑，所有部署都必须设置密码
+ */
+function isPasswordRequired() {
+    return !isPasswordProtected();
+}
+
+/**
+ * 强制密码保护检查 - 防止绕过
+ * 在关键操作前都应该调用此函数
+ */
+function ensurePasswordProtection() {
+    if (isPasswordRequired()) {
+        showPasswordModal();
+        throw new Error('Password protection is required');
+    }
+    if (isPasswordProtected() && !isPasswordVerified()) {
+        showPasswordModal();
+        throw new Error('Password verification required');
+    }
+    return true;
+}
+
+window.isPasswordProtected = isPasswordProtected;
+window.isPasswordRequired = isPasswordRequired;
+
+/**
+ * 验证用户输入的密码是否正确（异步，使用SHA-256哈希）
+ */
+async function verifyPassword(password) {
+    try {
+        const correctHash = window.__ENV__?.PASSWORD;
+        if (!correctHash) return false;
+
+        const inputHash = await sha256(password);
+        const isValid = inputHash === correctHash;
+
+        if (isValid) {
+            localStorage.setItem(PASSWORD_CONFIG.localStorageKey, JSON.stringify({
+                verified: true,
+                timestamp: Date.now(),
+                passwordHash: correctHash
+            }));
+        }
+        return isValid;
+    } catch (error) {
+        console.error('验证密码时出错:', error);
+        return false;
+    }
+}
+
+// 验证状态检查
+function isPasswordVerified() {
+    try {
+        if (!isPasswordProtected()) return true;
+
+        const stored = localStorage.getItem(PASSWORD_CONFIG.localStorageKey);
+        if (!stored) return false;
+
+        const { timestamp, passwordHash } = JSON.parse(stored);
+        const currentHash = window.__ENV__?.PASSWORD;
+
+        return timestamp && passwordHash === currentHash &&
+            Date.now() - timestamp < PASSWORD_CONFIG.verificationTTL;
+    } catch (error) {
+        console.error('检查密码验证状态时出错:', error);
+        return false;
+    }
+}
+
+// 更新全局导出
+window.isPasswordProtected = isPasswordProtected;
+window.isPasswordRequired = isPasswordRequired;
+window.isPasswordVerified = isPasswordVerified;
+window.verifyPassword = verifyPassword;
+window.ensurePasswordProtection = ensurePasswordProtection;
+
+// SHA-256实现，可用Web Crypto API
+async function sha256(message) {
+    if (window.crypto && crypto.subtle && crypto.subtle.digest) {
+        const msgBuffer = new TextEncoder().encode(message);
+        const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+        const hashArray = Array.from(new Uint8Array(hashBuffer));
+        return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+    // HTTP 下调用原始 js‑sha256
+    if (typeof window._jsSha256 === 'function') {
+        return window._jsSha256(message);
+    }
+    throw new Error('No SHA-256 implementation available.');
+}
+
+/**
+ * 显示密码验证弹窗
+ */
+function showPasswordModal() {
+    const passwordModal = document.getElementById('passwordModal');
+    if (passwordModal) {
+        // 防止出现豆瓣区域滚动条
+        document.getElementById('doubanArea').classList.add('hidden');
+        document.getElementById('passwordCancelBtn').classList.add('hidden');
+
+        // 检查是否需要强制设置密码
+        if (isPasswordRequired()) {
+            // 修改弹窗内容提示用户需要先设置密码
+            const title = passwordModal.querySelector('h2');
+            const description = passwordModal.querySelector('p');
+            if (title) title.textContent = '需要设置密码';
+            if (description) description.textContent = '请先在部署平台设置 PASSWORD 环境变量来保护您的实例';
+            
+            // 隐藏密码输入框和提交按钮，只显示提示信息
+            const form = passwordModal.querySelector('form');
+            const errorMsg = document.getElementById('passwordError');
+            if (form) form.style.display = 'none';
+            if (errorMsg) {
+                errorMsg.textContent = '为确保安全，必须设置 PASSWORD 环境变量才能使用本服务，请联系管理员进行配置';
+                errorMsg.classList.remove('hidden');
+                errorMsg.className = 'text-red-500 mt-2 font-medium'; // 改为更醒目的红色
+            }
+        } else {
+            // 正常的密码验证模式
+            const title = passwordModal.querySelector('h2');
+            const description = passwordModal.querySelector('p');
+            if (title) title.textContent = '访问验证';
+            if (description) description.textContent = '请输入密码继续访问';
+            
+            const form = passwordModal.querySelector('form');
+            if (form) form.style.display = 'block';
+        }
+
+        passwordModal.style.display = 'flex';
+
+        // 只有在非强制设置密码模式下才聚焦输入框
+        if (!isPasswordRequired()) {
+            // 确保输入框获取焦点
+            setTimeout(() => {
+                const passwordInput = document.getElementById('passwordInput');
+                if (passwordInput) {
+                    passwordInput.focus();
+                }
+            }, 100);
+        }
+    }
+}
+
+/**
+ * 隐藏密码验证弹窗
+ */
+function hidePasswordModal() {
+    const passwordModal = document.getElementById('passwordModal');
+    if (passwordModal) {
+        // 隐藏密码错误提示
+        hidePasswordError();
+
+        // 清空密码输入框
+        const passwordInput = document.getElementById('passwordInput');
+        if (passwordInput) passwordInput.value = '';
+
+        passwordModal.style.display = 'none';
+
+        // 如果启用豆瓣区域则显示豆瓣区域
+        if (localStorage.getItem('doubanEnabled') === 'true') {
+            document.getElementById('doubanArea').classList.remove('hidden');
+            initDouban();
+        }
+    }
+}
+
+/**
+ * 显示密码错误信息
+ */
+function showPasswordError() {
+    const errorElement = document.getElementById('passwordError');
+    if (errorElement) {
+        errorElement.classList.remove('hidden');
+    }
+}
+
+/**
+ * 隐藏密码错误信息
+ */
+function hidePasswordError() {
+    const errorElement = document.getElementById('passwordError');
+    if (errorElement) {
+        errorElement.classList.add('hidden');
+    }
+}
+
+/**
+ * 处理密码提交事件（异步）
+ */
+async function handlePasswordSubmit() {
+    const passwordInput = document.getElementById('passwordInput');
+    const password = passwordInput ? passwordInput.value.trim() : '';
+    if (await verifyPassword(password)) {
+        hidePasswordModal();
+
+        // 触发密码验证成功事件
+        document.dispatchEvent(new CustomEvent('passwordVerified'));
+    } else {
+        showPasswordError();
+        if (passwordInput) {
+            passwordInput.value = '';
+            passwordInput.focus();
+        }
+    }
+}
+
+/**
+ * 初始化密码验证系统
+ */
+function initPasswordProtection() {
+    // 如果需要强制设置密码，显示警告弹窗
+    if (isPasswordRequired()) {
+        showPasswordModal();
+        return;
+    }
+    
+    // 如果设置了密码但用户未验证，显示密码输入框
+    if (isPasswordProtected() && !isPasswordVerified()) {
+        showPasswordModal();
+        return;
+    }
+}
+
+// 在页面加载完成后初始化密码保护
+document.addEventListener('DOMContentLoaded', function () {
+    initPasswordProtection();
+});

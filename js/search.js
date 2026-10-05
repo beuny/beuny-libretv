@@ -1,1 +1,127 @@
-YXN5bmMgZnVuY3Rpb24gc2VhcmNoQnlBUElBbmRLZXlXb3JkKGFwaUlkLCBxdWVyeSkgewogICAgdHJ5IHsKICAgICAgICBsZXQgYXBpVXJsLCBhcGlOYW1lLCBhcGlCYXNlVXJsOwogICAgICAgIAogICAgICAgIC8vIOWkhOeQhuiHquWumuS5iUFQSQogICAgICAgIGlmIChhcGlJZC5zdGFydHNXaXRoKCdjdXN0b21fJykpIHsKICAgICAgICAgICAgY29uc3QgY3VzdG9tSW5kZXggPSBhcGlJZC5yZXBsYWNlKCdjdXN0b21fJywgJycpOwogICAgICAgICAgICBjb25zdCBjdXN0b21BcGkgPSBnZXRDdXN0b21BcGlJbmZvKGN1c3RvbUluZGV4KTsKICAgICAgICAgICAgaWYgKCFjdXN0b21BcGkpIHJldHVybiBbXTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGFwaUJhc2VVcmwgPSBjdXN0b21BcGkudXJsOwogICAgICAgICAgICBhcGlVcmwgPSBhcGlCYXNlVXJsICsgQVBJX0NPTkZJRy5zZWFyY2gucGF0aCArIGVuY29kZVVSSUNvbXBvbmVudChxdWVyeSk7CiAgICAgICAgICAgIGFwaU5hbWUgPSBjdXN0b21BcGkubmFtZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyDlhoXnva5BUEkKICAgICAgICAgICAgaWYgKCFBUElfU0lURVNbYXBpSWRdKSByZXR1cm4gW107CiAgICAgICAgICAgIGFwaUJhc2VVcmwgPSBBUElfU0lURVNbYXBpSWRdLmFwaTsKICAgICAgICAgICAgYXBpVXJsID0gYXBpQmFzZVVybCArIEFQSV9DT05GSUcuc2VhcmNoLnBhdGggKyBlbmNvZGVVUklDb21wb25lbnQocXVlcnkpOwogICAgICAgICAgICBhcGlOYW1lID0gQVBJX1NJVEVTW2FwaUlkXS5uYW1lOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAvLyDmt7vliqDotoXml7blpITnkIYKICAgICAgICBjb25zdCBjb250cm9sbGVyID0gbmV3IEFib3J0Q29udHJvbGxlcigpOwogICAgICAgIGNvbnN0IHRpbWVvdXRJZCA9IHNldFRpbWVvdXQoKCkgPT4gY29udHJvbGxlci5hYm9ydCgpLCAxNTAwMCk7CiAgICAgICAgCiAgICAgICAgLy8g5re75Yqg6Ym05p2D5Y+C5pWw5Yiw5Luj55CGVVJMCiAgICAgICAgY29uc3QgcHJveGllZFVybCA9IGF3YWl0IHdpbmRvdy5Qcm94eUF1dGg/LmFkZEF1dGhUb1Byb3h5VXJsID8gCiAgICAgICAgICAgIGF3YWl0IHdpbmRvdy5Qcm94eUF1dGguYWRkQXV0aFRvUHJveHlVcmwoUFJPWFlfVVJMICsgZW5jb2RlVVJJQ29tcG9uZW50KGFwaVVybCkpIDoKICAgICAgICAgICAgUFJPWFlfVVJMICsgZW5jb2RlVVJJQ29tcG9uZW50KGFwaVVybCk7CiAgICAgICAgCiAgICAgICAgY29uc3QgcmVzcG9uc2UgPSBhd2FpdCBmZXRjaChwcm94aWVkVXJsLCB7CiAgICAgICAgICAgIGhlYWRlcnM6IEFQSV9DT05GSUcuc2VhcmNoLmhlYWRlcnMsCiAgICAgICAgICAgIHNpZ25hbDogY29udHJvbGxlci5zaWduYWwKICAgICAgICB9KTsKICAgICAgICAKICAgICAgICBjbGVhclRpbWVvdXQodGltZW91dElkKTsKICAgICAgICAKICAgICAgICBpZiAoIXJlc3BvbnNlLm9rKSB7CiAgICAgICAgICAgIHJldHVybiBbXTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICAKICAgICAgICBpZiAoIWRhdGEgfHwgIWRhdGEubGlzdCB8fCAhQXJyYXkuaXNBcnJheShkYXRhLmxpc3QpIHx8IGRhdGEubGlzdC5sZW5ndGggPT09IDApIHsKICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgIH0KICAgICAgICAKICAgICAgICAvLyDlpITnkIbnrKzkuIDpobXnu5PmnpwKICAgICAgICBjb25zdCByZXN1bHRzID0gZGF0YS5saXN0Lm1hcChpdGVtID0+ICh7CiAgICAgICAgICAgIC4uLml0ZW0sCiAgICAgICAgICAgIHNvdXJjZV9uYW1lOiBhcGlOYW1lLAogICAgICAgICAgICBzb3VyY2VfY29kZTogYXBpSWQsCiAgICAgICAgICAgIGFwaV91cmw6IGFwaUlkLnN0YXJ0c1dpdGgoJ2N1c3RvbV8nKSA/IGdldEN1c3RvbUFwaUluZm8oYXBpSWQucmVwbGFjZSgnY3VzdG9tXycsICcnKSk/LnVybCA6IHVuZGVmaW5lZAogICAgICAgIH0pKTsKICAgICAgICAKICAgICAgICAvLyDojrflj5bmgLvpobXmlbAKICAgICAgICBjb25zdCBwYWdlQ291bnQgPSBkYXRhLnBhZ2Vjb3VudCB8fCAxOwogICAgICAgIC8vIOehruWumumcgOimgeiOt+WPlueahOmineWklumhteaVsCAo5pyA5aSa6I635Y+WbWF4UGFnZXPpobUpCiAgICAgICAgY29uc3QgcGFnZXNUb0ZldGNoID0gTWF0aC5taW4ocGFnZUNvdW50IC0gMSwgQVBJX0NPTkZJRy5zZWFyY2gubWF4UGFnZXMgLSAxKTsKICAgICAgICAKICAgICAgICAvLyDlpoLmnpzmnInpop3lpJbpobXmlbDvvIzojrflj5bmm7TlpJrpobXnmoTnu5PmnpwKICAgICAgICBpZiAocGFnZXNUb0ZldGNoID4gMCkgewogICAgICAgICAgICBjb25zdCBhZGRpdGlvbmFsUGFnZVByb21pc2VzID0gW107CiAgICAgICAgICAgIAogICAgICAgICAgICBmb3IgKGxldCBwYWdlID0gMjsgcGFnZSA8PSBwYWdlc1RvRmV0Y2ggKyAxOyBwYWdlKyspIHsKICAgICAgICAgICAgICAgIC8vIOaehOW7uuWIhumhtVVSTAogICAgICAgICAgICAgICAgY29uc3QgcGFnZVVybCA9IGFwaUJhc2VVcmwgKyBBUElfQ09ORklHLnNlYXJjaC5wYWdlUGF0aAogICAgICAgICAgICAgICAgICAgIC5yZXBsYWNlKCd7cXVlcnl9JywgZW5jb2RlVVJJQ29tcG9uZW50KHF1ZXJ5KSkKICAgICAgICAgICAgICAgICAgICAucmVwbGFjZSgne3BhZ2V9JywgcGFnZSk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIC8vIOWIm+W7uuiOt+WPlumineWklumhteeahFByb21pc2UKICAgICAgICAgICAgICAgIGNvbnN0IHBhZ2VQcm9taXNlID0gKGFzeW5jICgpID0+IHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBwYWdlQ29udHJvbGxlciA9IG5ldyBBYm9ydENvbnRyb2xsZXIoKTsKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3QgcGFnZVRpbWVvdXRJZCA9IHNldFRpbWVvdXQoKCkgPT4gcGFnZUNvbnRyb2xsZXIuYWJvcnQoKSwgMTUwMDApOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgLy8g5re75Yqg6Ym05p2D5Y+C5pWw5Yiw5Luj55CGVVJMCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHByb3hpZWRQYWdlVXJsID0gYXdhaXQgd2luZG93LlByb3h5QXV0aD8uYWRkQXV0aFRvUHJveHlVcmwgPyAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF3YWl0IHdpbmRvdy5Qcm94eUF1dGguYWRkQXV0aFRvUHJveHlVcmwoUFJPWFlfVVJMICsgZW5jb2RlVVJJQ29tcG9uZW50KHBhZ2VVcmwpKSA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBQUk9YWV9VUkwgKyBlbmNvZGVVUklDb21wb25lbnQocGFnZVVybCk7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBwYWdlUmVzcG9uc2UgPSBhd2FpdCBmZXRjaChwcm94aWVkUGFnZVVybCwgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZGVyczogQVBJX0NPTkZJRy5zZWFyY2guaGVhZGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpZ25hbDogcGFnZUNvbnRyb2xsZXIuc2lnbmFsCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgY2xlYXJUaW1lb3V0KHBhZ2VUaW1lb3V0SWQpOwogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFwYWdlUmVzcG9uc2Uub2spIHJldHVybiBbXTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0IHBhZ2VEYXRhID0gYXdhaXQgcGFnZVJlc3BvbnNlLmpzb24oKTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIGlmICghcGFnZURhdGEgfHwgIXBhZ2VEYXRhLmxpc3QgfHwgIUFycmF5LmlzQXJyYXkocGFnZURhdGEubGlzdCkpIHJldHVybiBbXTsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIC8vIOWkhOeQhuW9k+WJjemhtee7k+aenAogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGFnZURhdGEubGlzdC5tYXAoaXRlbSA9PiAoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uaXRlbSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZV9uYW1lOiBhcGlOYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlX2NvZGU6IGFwaUlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBpX3VybDogYXBpSWQuc3RhcnRzV2l0aCgnY3VzdG9tXycpID8gZ2V0Q3VzdG9tQXBpSW5mbyhhcGlJZC5yZXBsYWNlKCdjdXN0b21fJywgJycpKT8udXJsIDogdW5kZWZpbmVkCiAgICAgICAgICAgICAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLndhcm4oYEFQSSAke2FwaUlkfSDnrKwke3BhZ2V96aG15pCc57Si5aSx6LSlOmAsIGVycm9yKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFtdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pKCk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGFkZGl0aW9uYWxQYWdlUHJvbWlzZXMucHVzaChwYWdlUHJvbWlzZSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIOetieW+heaJgOaciemineWklumhteeahOe7k+aenAogICAgICAgICAgICBjb25zdCBhZGRpdGlvbmFsUmVzdWx0cyA9IGF3YWl0IFByb21pc2UuYWxsKGFkZGl0aW9uYWxQYWdlUHJvbWlzZXMpOwogICAgICAgICAgICAKICAgICAgICAgICAgLy8g5ZCI5bm25omA5pyJ6aG155qE57uT5p6cCiAgICAgICAgICAgIGFkZGl0aW9uYWxSZXN1bHRzLmZvckVhY2gocGFnZVJlc3VsdHMgPT4gewogICAgICAgICAgICAgICAgaWYgKHBhZ2VSZXN1bHRzLmxlbmd0aCA+IDApIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHRzLnB1c2goLi4ucGFnZVJlc3VsdHMpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuIHJlc3VsdHM7CiAgICB9IGNhdGNoIChlcnJvcikgewogICAgICAgIGNvbnNvbGUud2FybihgQVBJICR7YXBpSWR9IOaQnOe0ouWksei0pTpgLCBlcnJvcik7CiAgICAgICAgcmV0dXJuIFtdOwogICAgfQp9
+async function searchByAPIAndKeyWord(apiId, query) {
+    try {
+        let apiUrl, apiName, apiBaseUrl;
+        
+        // 处理自定义API
+        if (apiId.startsWith('custom_')) {
+            const customIndex = apiId.replace('custom_', '');
+            const customApi = getCustomApiInfo(customIndex);
+            if (!customApi) return [];
+            
+            apiBaseUrl = customApi.url;
+            apiUrl = apiBaseUrl + API_CONFIG.search.path + encodeURIComponent(query);
+            apiName = customApi.name;
+        } else {
+            // 内置API
+            if (!API_SITES[apiId]) return [];
+            apiBaseUrl = API_SITES[apiId].api;
+            apiUrl = apiBaseUrl + API_CONFIG.search.path + encodeURIComponent(query);
+            apiName = API_SITES[apiId].name;
+        }
+        
+        // 添加超时处理
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 15000);
+        
+        // 添加鉴权参数到代理URL
+        const proxiedUrl = await window.ProxyAuth?.addAuthToProxyUrl ? 
+            await window.ProxyAuth.addAuthToProxyUrl(PROXY_URL + encodeURIComponent(apiUrl)) :
+            PROXY_URL + encodeURIComponent(apiUrl);
+        
+        const response = await fetch(proxiedUrl, {
+            headers: API_CONFIG.search.headers,
+            signal: controller.signal
+        });
+        
+        clearTimeout(timeoutId);
+        
+        if (!response.ok) {
+            return [];
+        }
+        
+        const data = await response.json();
+        
+        if (!data || !data.list || !Array.isArray(data.list) || data.list.length === 0) {
+            return [];
+        }
+        
+        // 处理第一页结果
+        const results = data.list.map(item => ({
+            ...item,
+            source_name: apiName,
+            source_code: apiId,
+            api_url: apiId.startsWith('custom_') ? getCustomApiInfo(apiId.replace('custom_', ''))?.url : undefined
+        }));
+        
+        // 获取总页数
+        const pageCount = data.pagecount || 1;
+        // 确定需要获取的额外页数 (最多获取maxPages页)
+        const pagesToFetch = Math.min(pageCount - 1, API_CONFIG.search.maxPages - 1);
+        
+        // 如果有额外页数，获取更多页的结果
+        if (pagesToFetch > 0) {
+            const additionalPagePromises = [];
+            
+            for (let page = 2; page <= pagesToFetch + 1; page++) {
+                // 构建分页URL
+                const pageUrl = apiBaseUrl + API_CONFIG.search.pagePath
+                    .replace('{query}', encodeURIComponent(query))
+                    .replace('{page}', page);
+                
+                // 创建获取额外页的Promise
+                const pagePromise = (async () => {
+                    try {
+                        const pageController = new AbortController();
+                        const pageTimeoutId = setTimeout(() => pageController.abort(), 15000);
+                        
+                        // 添加鉴权参数到代理URL
+                        const proxiedPageUrl = await window.ProxyAuth?.addAuthToProxyUrl ? 
+                            await window.ProxyAuth.addAuthToProxyUrl(PROXY_URL + encodeURIComponent(pageUrl)) :
+                            PROXY_URL + encodeURIComponent(pageUrl);
+                        
+                        const pageResponse = await fetch(proxiedPageUrl, {
+                            headers: API_CONFIG.search.headers,
+                            signal: pageController.signal
+                        });
+                        
+                        clearTimeout(pageTimeoutId);
+                        
+                        if (!pageResponse.ok) return [];
+                        
+                        const pageData = await pageResponse.json();
+                        
+                        if (!pageData || !pageData.list || !Array.isArray(pageData.list)) return [];
+                        
+                        // 处理当前页结果
+                        return pageData.list.map(item => ({
+                            ...item,
+                            source_name: apiName,
+                            source_code: apiId,
+                            api_url: apiId.startsWith('custom_') ? getCustomApiInfo(apiId.replace('custom_', ''))?.url : undefined
+                        }));
+                    } catch (error) {
+                        console.warn(`API ${apiId} 第${page}页搜索失败:`, error);
+                        return [];
+                    }
+                })();
+                
+                additionalPagePromises.push(pagePromise);
+            }
+            
+            // 等待所有额外页的结果
+            const additionalResults = await Promise.all(additionalPagePromises);
+            
+            // 合并所有页的结果
+            additionalResults.forEach(pageResults => {
+                if (pageResults.length > 0) {
+                    results.push(...pageResults);
+                }
+            });
+        }
+        
+        return results;
+    } catch (error) {
+        console.warn(`API ${apiId} 搜索失败:`, error);
+        return [];
+    }
+}

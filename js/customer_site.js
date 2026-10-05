@@ -1,1 +1,13 @@
-Y29uc3QgQ1VTVE9NRVJfU0lURVMgPSB7CiAgICBxaXFpOiB7CiAgICAgICAgYXBpOiAnaHR0cHM6Ly93d3cucWlxaWR5cy5jb20vYXBpLnBocC9wcm92aWRlL3ZvZCcsCiAgICAgICAgbmFtZTogJ+S4g+S4g+i1hOa6kCcsCiAgICB9Cn07CgovLyDosIPnlKjlhajlsYDmlrnms5XlkIjlubYKaWYgKHdpbmRvdy5leHRlbmRBUElTaXRlcykgewogICAgd2luZG93LmV4dGVuZEFQSVNpdGVzKENVU1RPTUVSX1NJVEVTKTsKfSBlbHNlIHsKICAgIGNvbnNvbGUuZXJyb3IoIumUmeivr++8muivt+WFiOWKoOi9vSBjb25maWcuanPvvIEiKTsKfQo=
+const CUSTOMER_SITES = {
+    qiqi: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源',
+    }
+};
+
+// 调用全局方法合并
+if (window.extendAPISites) {
+    window.extendAPISites(CUSTOMER_SITES);
+} else {
+    console.error("错误：请先加载 config.js！");
+}
