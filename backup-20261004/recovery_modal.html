@@ -1,0 +1,19 @@
+<!-- 密码找回弹窗（页脚/验证弹窗均可触发） -->
+<div id="forgotPasswordModal" class="fixed inset-0 bg-black/95 hidden items-center justify-center z-[70] transition-opacity duration-300">
+    <div class="bg-[#111] p-8 rounded-lg w-11/12 max-w-md border border-[#333] max-h-[90vh] flex flex-col overflow-y-auto">
+        <div class="flex justify-between items-center mb-6 flex-none">
+            <h2 class="text-2xl font-bold gradient-text">找回密码</h2>
+            <button type="button" onclick="hideForgotModal()" class="text-gray-400 hover:text-white text-2xl leading-none">&times;</button>
+        </div>
+        <div class="mb-6 flex-1">
+            <p class="text-gray-300 mb-4">本站访问密码由站长统一设置。若您忘记了密码，请通过以下方式找回：</p>
+            <div class="bg-[#0a0a0a] border border-[#333] rounded-lg p-4 mb-4">
+                <p class="text-sm text-gray-400 mb-2">方式一：联系站长邮箱</p>
+                <a href="mailto:15131049@qq.com?subject=LibreTV%20%E5%AF%86%E7%A0%81%E6%89%BE%E5%9B%9E%E7%94%B3%E8%AF%B7" class="text-blue-400 hover:text-blue-300 underline break-all">15131049@qq.com（点击发送找回申请邮件）</a>
+            </div>
+        </div>
+        <div class="flex-none">
+            <button type="button" onclick="hideForgotModal()" class="w-full bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded">我知道了</button>
+        </div>
+    </div>
+</div>
