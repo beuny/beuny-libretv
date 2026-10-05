@@ -1,0 +1,6 @@
+<script>
+function showForgotModal() { var m = document.getElementById("forgotPasswordModal"); if (m) { m.classList.remove("hidden"); m.classList.add("flex"); } }
+function hideForgotModal() { var m = document.getElementById("forgotPasswordModal"); if (m) { m.classList.add("hidden"); m.classList.remove("flex"); } }
+document.addEventListener("keydown", function(e) { if (e.key === "Escape") hideForgotModal(); });
+document.addEventListener("click", function(e) { var m = document.getElementById("forgotPasswordModal"); if (m && e.target === m) hideForgotModal(); });
+</script>
